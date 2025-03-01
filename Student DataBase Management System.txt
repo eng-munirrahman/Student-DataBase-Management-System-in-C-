@@ -1,0 +1,18 @@
+	------: Welcome to Student DataBase Management System :------
+|-----------------------|Munir Rahman| Information -----------------------|
+Name      : Munir Rahman
+Last Name : Rahmani
+ID    : 77
+Phone : +9300000000
+Email : name_@gmail.com
+Class : First
+Calculas Mark    : 100
+Programming Mark : 100
+English Mark     : 100
+Computer Mark    : 100
+DLD Mark         : 100
+....................................................
+Total Mark : 500
+....................................................
+Percentage : 100%
+....................................................
